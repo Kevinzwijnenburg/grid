@@ -6,7 +6,7 @@ body {
 
 .frame{
 	background-color: rgba(0,128,0,0.4);
-	width: 580px;
+	width: 600px;
 	margin: auto;
 	padding: 10px;
   padding-top: 20px;
@@ -29,7 +29,6 @@ h2 {
 	border: solid #800080;
 border-width: 5px;
 padding: 10px 0px 10px 20px;
-	/* put css-rules in this ccs-block here below */
 
 }
 
@@ -38,6 +37,6 @@ p{
 	line-height: 20px;
   margin-top: 10px;
 	margin-bottom: 10px;
-	/* put css-rules in this ccs-block here below */
+	padding: 12px;
 
 }
